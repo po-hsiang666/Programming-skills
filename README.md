@@ -1,2 +1,2 @@
-# Python-Study
+# 學習紀錄
 
